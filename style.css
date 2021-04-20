@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+background-color: rgb(219, 148, 198);
+
+}
+
+.main_body{
+    height: 100%;
+    width: 100%;
+
+}
+.main_body img{
+
+}
+.body_part{
+    text-align: center;
+    width: 550px;
+    margin: 0 auto;
+    height: 300px;
+    margin-top: 70px;
+    background: #fff;
+    border: 1px solid #fff;
+    border-radius: 8px; 
+}
+.body_part h2{
+    margin: 0;
+    margin-top: 27px;
+    font-size: 30px;
+    font-family: arial;
+}
+.forM{
+    margin-top: 32px;
+}
+.input{
+    height: 32px;
+    width: 409px;
+    border: none;
+    border-bottom: 1px solid;
+}
+.reaselt{
+    width: 418px;
+    margin: 0 auto;
+    height: 41px;
+    border-bottom: 1px solid;
+    margin-top: 15px;
+}
+#resunlt_se{
+    float: left;
+    margin: 0px;
+    visibility: hidden;
+}
+.submit{
+    margin-top: 51px;
+    padding: 7px 42px 5px 38px;
+    font-size: 20px;
+    background: rgb(203, 139, 219);
+    border: none;
+    color: #fff;
+}
