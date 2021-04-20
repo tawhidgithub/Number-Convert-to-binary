@@ -4,7 +4,7 @@ It'a converter.
 
 
 
-It can convert number to binary
+It can convert number to binary.
 
 
 
